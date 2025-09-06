@@ -31,7 +31,8 @@
     <!-- Take note: you can also copy and paste transformation properties -->
 - Snapping feature;
 - You can Lock layers!
-- Keyframes! Keyframes are "values at a given time". They are very essential to any animation software;
+- Keyframes! Keyframes are "values at a given time". They are very essential to any animation software; </br>
+    Linear Keyframes:
     - 'Motion Path' for visualization;
     - 'Work Area' for "looping" what you see;
     - Just like with properties, you can copy keyframes;
@@ -39,3 +40,12 @@
     - You can control the timing of the keyframes along the time of the composition;
     - By default, keyframes will ***interpolate***;
     - Beware: _Continuous Bezier_.
+- ***Timing*** and ***Spacing***;
+    <!-- very important concepts!! -->
+    <!-- timing can't be changed, but spacing can, that's related to the level of "smoothness" of the animation -->
+    - . : Right click > 'Keyframe Assistant' > 'Easy Ease'
+- As subtle as it is, **Easing** it's usually one of those things that make a lot of difference in the end-result of an animation;
+- **'Solo Layer'** feature;
+- 'Layer' > 'Pre-compose';
+- 'Toogle Hold Keyframe';
+- `>_` 
