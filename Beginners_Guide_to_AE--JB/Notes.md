@@ -7,6 +7,8 @@
     - Timeline/Layers Panel.
     <!-- you have a lot of flexibility with panels and Workspace control -->
 - How to import files;
+    - Layered Illustrator files (e.g. : the "animated" heads) can be replaced later by going: right click > Replace Footage > With Layered Comp.
+<!-- - H.264 Format -->
 - What is a Composition;
 - Layers and file size are very important;
 - Why Resolution is important;
@@ -18,7 +20,6 @@
     <!-- - 'Transform' > 'Fit to Comp ...' -->
 - Precomps: Why organization is so important in an animation project;
     - Precomps are very important!!
-    <!-- !!! right click > Replace Footage > With Layered Comp -->
 - Transformations!!!
     - Position (P);
     - Scale;
@@ -47,5 +48,11 @@
 - As subtle as it is, **Easing** it's usually one of those things that make a lot of difference in the end-result of an animation;
 - **'Solo Layer'** feature;
 - 'Layer' > 'Pre-compose';
+    - Why ??? </br>
+    The cool thing about Pre-comps is that they allow you to make more complex animations, even with some very basic elements. It also makes it more easy to break the animation down into smaller parts to make adjustments later
+    <!-- you can either pass the *attributes on to the created precomp or not - that could be a relevant choice depending on what you're trying to do -->
 - 'Toogle Hold Keyframe';
-- `>_` 
+- (...)
+- How to export videos using AME (Adobe Media Encoder)
+
+`>_` 
