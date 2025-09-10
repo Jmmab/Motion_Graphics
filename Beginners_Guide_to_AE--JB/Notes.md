@@ -51,8 +51,26 @@
     - Why ??? </br>
     The cool thing about Pre-comps is that they allow you to make more complex animations, even with some very basic elements. It also makes it more easy to break the animation down into smaller parts to make adjustments later
     <!-- you can either pass the *attributes on to the created precomp or not - that could be a relevant choice depending on what you're trying to do -->
+    <!-- another important thing about Pre-comps is that when creating them, you can select the option 'Adjust composition duration to time span...', which might be useful -->
 - 'Toogle Hold Keyframe';
 - (...)
-- How to export videos using AME (Adobe Media Encoder)
-
-`>_` 
+- How to export videos using AME (Adobe Media Encoder);
+- How to apply Effects;
+    - There are many types of effects: Generative, Manipulative, etc;
+    - How to use **Adjustment Layers** to quickly apply affects on multiple elements (layers);
+    - The order in which you apply the effects makes a lot of difference in the end result!
+- Masking;
+    <!-- 'Masks' and 'Shape Layers' (?) are vectors inside of AE -->
+    <!-- you can make a lot of interactions between Masks as well -->
+- Working with Text
+    <!-- it's worth noting that the anchor point on text layers works a little bit differently -->
+    - You can animate text by using some awesome animation presets!
+    <!-- the text remains editable! -->
+- What is a Null Layer;
+- How to invert Keyframes;
+- How to add final effects to achieve a professional look;
+    - How to use masks along with effects to obtain some interesting results.
+- How to create and export a Loop in After Effects.
+    - Using After Effetcs natively `vs` Using AME.
+    <!-- compression -->
+    <!-- 'Trim Comp to Work Area' -->
